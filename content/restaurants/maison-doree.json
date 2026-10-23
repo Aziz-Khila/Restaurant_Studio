@@ -1,0 +1,184 @@
+{
+  "slug": "maison-doree",
+  "name": "Maison Dorée",
+  "kind": "Restaurant",
+  "city": "Borj Cédria",
+  "logo": "/restaurants/maison-doree/logo-maison-doree-mark.png",
+  "seo": {
+    "title": "Maison Dorée — Restaurant · Borj Cédria",
+    "description": "Maison Dorée, restaurant à Borj Cédria. Cuisine ouverte, pizzas au feu de bois, desserts et plats généreux."
+  },
+  "contact": {
+    "phone": "+216 28 863 698",
+    "instagram": "aziz_khila"
+  },
+  "location": {
+    "address": "Cité Erriadh, Borj Cédria, Ben Arous",
+    "note": "Cité Erriadh · Borj Cédria",
+    "mapsUrl": "https://maps.app.goo.gl/5b7AUPyQn564VkWa6"
+  },
+  "hours": [],
+  "currency": "DT",
+  "theme": {
+    "preset": "noir"
+  },
+  "motion": "rich",
+  "menu": [
+    {
+      "id": "pizzas",
+      "name": "Pizzas",
+      "items": [
+        {
+          "name": "Pizza Dorée",
+          "description": "Sauce tomate, mozzarella, olives noires, poivrons, poulet assaisonné, basilic frais — cuite au four à bois.",
+          "price": 28,
+          "image": "/restaurants/maison-doree/dish-pizza.png",
+          "cutout": "/restaurants/maison-doree/dish-pizza-transparent.png"
+        }
+      ]
+    },
+    {
+      "id": "pates",
+      "name": "Pâtes",
+      "items": [
+        {
+          "name": "Pâtes de la Maison",
+          "description": "Penne, crème d’herbes, noisettes torréfiées, parmesan, tuile croustillante.",
+          "price": 24,
+          "image": "/restaurants/maison-doree/dish-pasta.png",
+          "cutout": "/restaurants/maison-doree/dish-pasta-transparent.png"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Dessert de la Maison",
+          "description": "Pancake maison, sauce chocolat, coulis de fruits rouges, amandes effilées.",
+          "price": 14,
+          "image": "/restaurants/maison-doree/dish-dessert.png",
+          "cutout": "/restaurants/maison-doree/dish-dessert-transparent.png"
+        }
+      ]
+    },
+    {
+      "id": "tradition",
+      "name": "Tradition",
+      "items": [
+        {
+          "name": "Plat traditionnel",
+          "description": "Recette maison mijotée, accompagnements du jour, présentation généreuse.",
+          "price": 26,
+          "image": "/restaurants/maison-doree/dish-tradition.png",
+          "cutout": "/restaurants/maison-doree/dish-tradition-transparent.png"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "type": "hero",
+      "variant": "cinematic",
+      "eyebrow": "Restaurant · Borj Cédria",
+      "headline": "Ambiance parfaite & cuisine d’exception",
+      "text": "Satisfaites vos envies avec des pizzas au feu de bois, des pâtes généreuses et une expérience chaleureuse à partager.",
+      "image": {
+        "src": "/restaurants/maison-doree/hero-pizza.png",
+        "alt": ""
+      },
+      "primaryCta": {
+        "label": "Découvrir",
+        "action": "tour"
+      }
+    },
+    {
+      "type": "about",
+      "id": "experience",
+      "navLabel": "L’expérience",
+      "variant": "image-right",
+      "eyebrow": "L’esprit Maison Dorée",
+      "title": "Une cuisine ouverte, des créations sous vos yeux.",
+      "text": "Chez Maison Dorée, l’open kitchen laisse voir le geste : four à bois, préparations soignées et plats qui naissent devant vous — pour une expérience sincère, généreuse et chaleureuse.",
+      "image": {
+        "src": "/restaurants/maison-doree/experience-open-kitchen.jpg",
+        "alt": "Open kitchen Maison Dorée — l’équipe en cuisine"
+      }
+    },
+    {
+      "type": "featured",
+      "id": "plats",
+      "navLabel": "Plats",
+      "variant": "grid",
+      "eyebrow": "Sur la table",
+      "title": "Ce qui fait notre maison.",
+      "text": "Quatre familles de plats, préparés chez Maison Dorée.",
+      "items": [
+        {
+          "title": "Pizzas",
+          "text": "Napolitaines et créations maison, cuites au four à bois.",
+          "image": {
+            "src": "/restaurants/maison-doree/dish-pizza.png",
+            "alt": "Pizza maison aux olives et basilic"
+          }
+        },
+        {
+          "title": "Pâtes",
+          "text": "Assiettes généreuses, sauces soignées, geste précis.",
+          "image": {
+            "src": "/restaurants/maison-doree/dish-pasta.png",
+            "alt": "Pâtes maison à la crème d’herbes"
+          }
+        },
+        {
+          "title": "Desserts",
+          "text": "Douceurs maison pour clôturer le repas.",
+          "image": {
+            "src": "/restaurants/maison-doree/dish-dessert.png",
+            "alt": "Dessert maison au chocolat et amandes"
+          }
+        },
+        {
+          "title": "Tradition",
+          "text": "Classiques généreux, mijotés avec soin.",
+          "image": {
+            "src": "/restaurants/maison-doree/dish-tradition.png",
+            "alt": "Plat traditionnel Maison Dorée"
+          }
+        }
+      ]
+    },
+    {
+      "type": "menu",
+      "navLabel": "Menu",
+      "variant": "book",
+      "eyebrow": "La carte",
+      "title": "Notre menu.",
+      "text": "Ouvrez le menu et tournez les pages — chaque plat, ses ingrédients, son prix.",
+      "coverNote": "Organic & Fresh · By BC"
+    },
+    {
+      "type": "quote",
+      "quote": "“Your new favorite food spot is now open.”",
+      "cite": "Maison Dorée · Borj Cédria",
+      "image": {
+        "src": "/restaurants/maison-doree/atmosphere-dining-room.jpg",
+        "alt": ""
+      }
+    },
+    {
+      "type": "visit",
+      "id": "visite",
+      "navLabel": "Visite",
+      "variant": "photo",
+      "eyebrow": "Nous rendre visite",
+      "title": "Borj Cédria vous attend.",
+      "text": "Cité Erriadh, au cœur de Borj Cédria. Fermé le dimanche.",
+      "image": {
+        "src": "/restaurants/maison-doree/visit-exterior.jpg",
+        "alt": "Façade Maison Dorée à Borj Cédria"
+      }
+    }
+  ]
+}
